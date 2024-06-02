@@ -5,27 +5,74 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exemplo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
 
+
 </head>
 
 <body>
 
-    <div class="Navbar">
-        <div class="udajovem-navbar">
-            <a href="#home" class="menu">Muda Jovem</a>
-            <div class="w3-right w3-hide-small">
-                <a href="#sobre" class="menu">Nossa história</a>
-                <a href="#processos seletivos" class="menu">Processos seletivos abertos no momento</a>
-                <a href="#contato" class="menu">Contato</a>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-logo" href="#">
+                <img src="logo.png" width="150" class="d-inline-block align-text-top">
+            </a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Quem somos?</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Processos seletivos</a>
+                    </li>
+            </div>
+    </nav>
+
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="banner.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item active">
+                <img src="banner02.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="logo.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="banner.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="banner02.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="banner.png" class="d-block w-100">
             </div>
         </div>
     </div>
-
 
 </body>
 
