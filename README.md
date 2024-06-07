@@ -4,7 +4,7 @@ Repositório criado para o processo seletivo do projeto "Muda Jovem"
 
 ### Descrição:
 
-O "Muda Jovem" é um projeto dedicado a jovens e adolescentes, com o objetivo de disseminar conhecimento e abrir portas para o futuro, espicialemnte para jovens e adolescentes. Este site foi desenvolvido utilizando HTML e Bootstrap, proporcionando uma interface moderna, responsiva e de fácil navegação.
+O "Muda Jovem" é um projeto dedicado a jovens e adolescentes, com o objetivo de disseminar conhecimento e abrir portas para o futuro. Este site foi desenvolvido utilizando HTML e Bootstrap, proporcionando uma interface moderna, responsiva e de fácil navegação.
 
 ## 👩🏻‍💻 Funcionalidades:
 
