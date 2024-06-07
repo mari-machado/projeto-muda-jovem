@@ -6,7 +6,7 @@ Repositório criado para o processo seletivo do projeto "Muda Jovem"
 
 O "Muda Jovem" é um projeto dedicado a jovens e adolescentes, com o objetivo de disseminar conhecimento e abrir portas para o futuro. Este site foi desenvolvido utilizando HTML e Bootstrap, proporcionando uma interface moderna, responsiva e de fácil navegação.
 
-https://github.com/mari-machado/muda-jovem/assets/121265696/ddd0a442-a0bb-478a-bd7d-a67aef48fde0
+https://github.com/mari-machado/muda-jovem/assets/121265696/626ec523-df89-4178-942f-771ca73079a5
 
 ## 👩🏻‍💻 Funcionalidades:
 
