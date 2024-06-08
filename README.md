@@ -51,7 +51,7 @@ Para visualizar o projeto localmente, siga os seguintes passos:
     cd projeto-muda-jovem
     ```
 
-3. **Abra o arquivo `index.html` no seu navegador preferido**.
+3. **Abra o arquivo `index.html` no seu navegador**.
 
 
 ## 🔎 Meu contato:
